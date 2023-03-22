@@ -1,0 +1,45 @@
+nav {
+    background-color: rgb(57, 144, 23);
+    padding: 5px;
+    border: 1px solid greenyellow;
+    border-radius: 5px;
+
+}
+
+nav ul li {
+    list-style-type: none;
+    background-color: rgb(57, 144, 23);
+    display: inline;
+    padding: 15px;
+}
+nav ul li a {
+    color: black;
+    text-decoration: none;
+
+}
+nav ul li:hover {background-color: white;}
+
+nav ul {
+    text-align:center;
+    font-size: 1.2em;
+}
+#active {
+    background-color: darkgreen ;
+}
+.logo {
+    float: left; height: 60px; width:60px;
+}
+header {
+    background-image: url(../aodhruadh/images/jerseys.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    color: white;
+    border: 1pc solid green;
+}
+#bigPic {
+    : 120%;
+}
+
+
+
